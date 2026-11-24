@@ -6,4 +6,4 @@ Wesoła gra dla dzieci: przesuwaj garnek i łap warzywa i owoce. Uważaj na skar
 - Działa offline po pierwszym uruchomieniu.
 - Języki: polski, ukraiński, angielski.
 
-Więcej przepisów roślinnych i bezglutenowych: https://weganpolska.https://dargovorikk.github.io/Zupa-Wariatka/
+Więcej przepisów roślinnych i bezglutenowych: https://weganpolska
